@@ -1,0 +1,7 @@
+body { font-family: Arial, sans-serif; background:#f4f6f8; color:#222; }
+.card { width:320px; margin:60px auto; background:white; padding:20px; border-radius:8px; box-shadow:0 6px 18px rgba(0,0,0,0.08); }
+input { display:block; width:100%; padding:10px; margin:8px 0; }
+button { padding:10px 14px; border:0; background:#1f6feb; color:white; border-radius:6px; cursor:pointer; }
+.container{ max-width:900px; margin:30px auto; padding:20px; }
+.course { background:white; padding:12px; margin-bottom:10px; border-radius:8px; box-shadow:0 2px 8px rgba(0,0,0,0.05); }
+nav{ padding:12px; background:#fff; box-shadow:0 2px 6px rgba(0,0,0,0.03); }
